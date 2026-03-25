@@ -1,0 +1,1472 @@
+{
+  "AF": {
+    "name": "Afghanistan",
+    "population": 41000000,
+    "biomass": 0.91,
+    "metals": 0.01,
+    "minerals": 0.12,
+    "fossil_fuels": 0.05,
+    "material_footprint_tonnes_per_capita": 1.1,
+    "total_with_supply_chain": 2
+  },
+  "AL": {
+    "name": "Albania",
+    "population": 2800000,
+    "biomass": 3.41,
+    "metals": 0.58,
+    "minerals": 6.26,
+    "fossil_fuels": 0.51,
+    "material_footprint_tonnes_per_capita": 10.8,
+    "total_with_supply_chain": 19.4
+  },
+  "DZ": {
+    "name": "Algeria",
+    "population": 45000000,
+    "biomass": 1.79,
+    "metals": 0.11,
+    "minerals": 5.25,
+    "fossil_fuels": 1.57,
+    "material_footprint_tonnes_per_capita": 8.7,
+    "total_with_supply_chain": 15.7
+  },
+  "AO": {
+    "name": "Angola",
+    "population": 36000000,
+    "biomass": 1.54,
+    "metals": 0.01,
+    "minerals": 2.14,
+    "fossil_fuels": 0.26,
+    "material_footprint_tonnes_per_capita": 3.9,
+    "total_with_supply_chain": 7
+  },
+  "AR": {
+    "name": "Argentina",
+    "population": 46000000,
+    "biomass": 10.66,
+    "metals": 0.96,
+    "minerals": 3.68,
+    "fossil_fuels": 1.3,
+    "material_footprint_tonnes_per_capita": 16.6,
+    "total_with_supply_chain": 41.5
+  },
+  "AM": {
+    "name": "Armenia",
+    "population": 3000000,
+    "biomass": 2.21,
+    "metals": 11.05,
+    "minerals": 1.83,
+    "fossil_fuels": 0.55,
+    "material_footprint_tonnes_per_capita": 15.6,
+    "total_with_supply_chain": 39
+  },
+  "AU": {
+    "name": "Australia",
+    "population": 26000000,
+    "biomass": 12.73,
+    "metals": 16.69,
+    "minerals": 11.5,
+    "fossil_fuels": -1.62,
+    "material_footprint_tonnes_per_capita": 39.3,
+    "total_with_supply_chain": 98.3
+  },
+  "AT": {
+    "name": "Austria",
+    "population": 9100000,
+    "biomass": 4.77,
+    "metals": 0.83,
+    "minerals": 8.55,
+    "fossil_fuels": 2.52,
+    "material_footprint_tonnes_per_capita": 16.7,
+    "total_with_supply_chain": 41.8
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "population": 10000000,
+    "biomass": 2.79,
+    "metals": 0.32,
+    "minerals": 3.8,
+    "fossil_fuels": 1.36,
+    "material_footprint_tonnes_per_capita": 8.3,
+    "total_with_supply_chain": 14.9
+  },
+  "BS": {
+    "name": "Bahamas",
+    "population": 10000000,
+    "biomass": 0.04,
+    "metals": 0.01,
+    "minerals": 0.25,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 0.3,
+    "total_with_supply_chain": 0.5
+  },
+  "BH": {
+    "name": "Bahrain",
+    "population": 10000000,
+    "biomass": 0.09,
+    "metals": 0.07,
+    "minerals": 1.88,
+    "fossil_fuels": 2.37,
+    "material_footprint_tonnes_per_capita": 4.4,
+    "total_with_supply_chain": 7.9
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "population": 173000000,
+    "biomass": 1.63,
+    "metals": 0.03,
+    "minerals": 0.43,
+    "fossil_fuels": 0.15,
+    "material_footprint_tonnes_per_capita": 2.2,
+    "total_with_supply_chain": 4
+  },
+  "BY": {
+    "name": "Belarus",
+    "population": 9200000,
+    "biomass": 7.59,
+    "metals": 0.05,
+    "minerals": 6.66,
+    "fossil_fuels": 3.83,
+    "material_footprint_tonnes_per_capita": 18.1,
+    "total_with_supply_chain": 45.3
+  },
+  "BE": {
+    "name": "Belgium",
+    "population": 11700000,
+    "biomass": 4.17,
+    "metals": 0.71,
+    "minerals": 10.91,
+    "fossil_fuels": 4.47,
+    "material_footprint_tonnes_per_capita": 20.3,
+    "total_with_supply_chain": 50.8
+  },
+  "BJ": {
+    "name": "Benin",
+    "population": 13000000,
+    "biomass": 3.09,
+    "metals": 0,
+    "minerals": 0.96,
+    "fossil_fuels": 0.01,
+    "material_footprint_tonnes_per_capita": 4.1,
+    "total_with_supply_chain": 7.4
+  },
+  "BO": {
+    "name": "Bolivia",
+    "population": 12000000,
+    "biomass": 7.23,
+    "metals": 4.18,
+    "minerals": 2.27,
+    "fossil_fuels": 0.7,
+    "material_footprint_tonnes_per_capita": 14.4,
+    "total_with_supply_chain": 25.9
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "population": 3200000,
+    "biomass": 3.63,
+    "metals": 0.67,
+    "minerals": 5.12,
+    "fossil_fuels": 5.5,
+    "material_footprint_tonnes_per_capita": 14.9,
+    "total_with_supply_chain": 26.8
+  },
+  "BW": {
+    "name": "Botswana",
+    "population": 2600000,
+    "biomass": 2.09,
+    "metals": 1.45,
+    "minerals": 13.06,
+    "fossil_fuels": 0.82,
+    "material_footprint_tonnes_per_capita": 17.4,
+    "total_with_supply_chain": 43.5
+  },
+  "BR": {
+    "name": "Brazil",
+    "population": 216000000,
+    "biomass": 12.96,
+    "metals": 1.31,
+    "minerals": 5.21,
+    "fossil_fuels": 0.64,
+    "material_footprint_tonnes_per_capita": 20.1,
+    "total_with_supply_chain": 50.3
+  },
+  "BN": {
+    "name": "Brunei Darussalam",
+    "population": 10000000,
+    "biomass": 0.03,
+    "metals": 0.01,
+    "minerals": 0.16,
+    "fossil_fuels": 0.19,
+    "material_footprint_tonnes_per_capita": 0.4,
+    "total_with_supply_chain": 0.7
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "population": 6500000,
+    "biomass": 4.25,
+    "metals": 3.92,
+    "minerals": 7.5,
+    "fossil_fuels": 6.23,
+    "material_footprint_tonnes_per_capita": 21.9,
+    "total_with_supply_chain": 54.8
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "population": 23000000,
+    "biomass": 2.97,
+    "metals": 1.12,
+    "minerals": 0.12,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 4.2,
+    "total_with_supply_chain": 7.6
+  },
+  "BI": {
+    "name": "Burundi",
+    "population": 13000000,
+    "biomass": 1.45,
+    "metals": 0.03,
+    "minerals": 0.14,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 1.6,
+    "total_with_supply_chain": 2.9
+  },
+  "KH": {
+    "name": "Cambodia",
+    "population": 17000000,
+    "biomass": 3.41,
+    "metals": 0.03,
+    "minerals": 3.09,
+    "fossil_fuels": 0.08,
+    "material_footprint_tonnes_per_capita": 6.6,
+    "total_with_supply_chain": 11.9
+  },
+  "CM": {
+    "name": "Cameroon",
+    "population": 28000000,
+    "biomass": 2.85,
+    "metals": 0.02,
+    "minerals": 0.87,
+    "fossil_fuels": 0.05,
+    "material_footprint_tonnes_per_capita": 3.8,
+    "total_with_supply_chain": 6.8
+  },
+  "CA": {
+    "name": "Canada",
+    "population": 40000000,
+    "biomass": 6.61,
+    "metals": 5.58,
+    "minerals": 15.27,
+    "fossil_fuels": 25.9,
+    "material_footprint_tonnes_per_capita": 53.4,
+    "total_with_supply_chain": 133.5
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "population": 5500000,
+    "biomass": 3.24,
+    "metals": 0.02,
+    "minerals": 0.04,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 3.3,
+    "total_with_supply_chain": 5.9
+  },
+  "TD": {
+    "name": "Chad",
+    "population": 18000000,
+    "biomass": 7.68,
+    "metals": 0,
+    "minerals": 0.14,
+    "fossil_fuels": 0.02,
+    "material_footprint_tonnes_per_capita": 7.8,
+    "total_with_supply_chain": 14
+  },
+  "CL": {
+    "name": "Chile",
+    "population": 19500000,
+    "biomass": 3.13,
+    "metals": 44.04,
+    "minerals": 2.8,
+    "fossil_fuels": 1.53,
+    "material_footprint_tonnes_per_capita": 51.5,
+    "total_with_supply_chain": 128.8
+  },
+  "CN": {
+    "name": "China",
+    "population": 1412000000,
+    "biomass": 2.89,
+    "metals": 2.19,
+    "minerals": 14.96,
+    "fossil_fuels": 3.24,
+    "material_footprint_tonnes_per_capita": 23.3,
+    "total_with_supply_chain": 58.3
+  },
+  "CO": {
+    "name": "Colombia",
+    "population": 52000000,
+    "biomass": 4.33,
+    "metals": 0.21,
+    "minerals": 2.12,
+    "fossil_fuels": 0.71,
+    "material_footprint_tonnes_per_capita": 7.4,
+    "total_with_supply_chain": 13.3
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "population": 5200000,
+    "biomass": 4.74,
+    "metals": 0.93,
+    "minerals": 3.8,
+    "fossil_fuels": -0.01,
+    "material_footprint_tonnes_per_capita": 9.5,
+    "total_with_supply_chain": 17.1
+  },
+  "CI": {
+    "name": "Cote d'Ivoire",
+    "population": 28000000,
+    "biomass": 2.17,
+    "metals": 0.45,
+    "minerals": 2.05,
+    "fossil_fuels": 0.18,
+    "material_footprint_tonnes_per_capita": 4.8,
+    "total_with_supply_chain": 8.6
+  },
+  "HR": {
+    "name": "Croatia",
+    "population": 3900000,
+    "biomass": 3.75,
+    "metals": 0.11,
+    "minerals": 5.13,
+    "fossil_fuels": 1.41,
+    "material_footprint_tonnes_per_capita": 10.4,
+    "total_with_supply_chain": 18.7
+  },
+  "CU": {
+    "name": "Cuba",
+    "population": 11000000,
+    "biomass": 5.8,
+    "metals": 0.76,
+    "minerals": 2.32,
+    "fossil_fuels": 0.52,
+    "material_footprint_tonnes_per_capita": 9.4,
+    "total_with_supply_chain": 16.9
+  },
+  "CY": {
+    "name": "Cyprus",
+    "population": 1300000,
+    "biomass": 1.32,
+    "metals": 0.36,
+    "minerals": 20.26,
+    "fossil_fuels": 0.03,
+    "material_footprint_tonnes_per_capita": 22,
+    "total_with_supply_chain": 55
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "population": 10800000,
+    "biomass": 3.27,
+    "metals": 0.61,
+    "minerals": 7.78,
+    "fossil_fuels": 5.47,
+    "material_footprint_tonnes_per_capita": 17.1,
+    "total_with_supply_chain": 42.8
+  },
+  "DK": {
+    "name": "Denmark",
+    "population": 5900000,
+    "biomass": 6.75,
+    "metals": 0.28,
+    "minerals": 9.99,
+    "fossil_fuels": 2.07,
+    "material_footprint_tonnes_per_capita": 19.1,
+    "total_with_supply_chain": 47.8
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "population": 11000000,
+    "biomass": 3.21,
+    "metals": 1,
+    "minerals": 3.24,
+    "fossil_fuels": 0.31,
+    "material_footprint_tonnes_per_capita": 7.8,
+    "total_with_supply_chain": 14
+  },
+  "EC": {
+    "name": "Ecuador",
+    "population": 18000000,
+    "biomass": 2.96,
+    "metals": 0.7,
+    "minerals": 2.95,
+    "fossil_fuels": 0.44,
+    "material_footprint_tonnes_per_capita": 7.1,
+    "total_with_supply_chain": 12.8
+  },
+  "EG": {
+    "name": "Egypt",
+    "population": 112000000,
+    "biomass": 1.95,
+    "metals": 0.24,
+    "minerals": 5.22,
+    "fossil_fuels": 0.59,
+    "material_footprint_tonnes_per_capita": 8,
+    "total_with_supply_chain": 14.4
+  },
+  "SV": {
+    "name": "El Salvador",
+    "population": 6300000,
+    "biomass": 3.89,
+    "metals": 0.03,
+    "minerals": 1.31,
+    "fossil_fuels": 0.09,
+    "material_footprint_tonnes_per_capita": 5.3,
+    "total_with_supply_chain": 9.5
+  },
+  "EE": {
+    "name": "Estonia",
+    "population": 1400000,
+    "biomass": 4.18,
+    "metals": 0.14,
+    "minerals": 11.52,
+    "fossil_fuels": 16.26,
+    "material_footprint_tonnes_per_capita": 32.1,
+    "total_with_supply_chain": 80.3
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "population": 126000000,
+    "biomass": 3.04,
+    "metals": 0.02,
+    "minerals": 0.55,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 3.6,
+    "total_with_supply_chain": 6.5
+  },
+  "FI": {
+    "name": "Finland",
+    "population": 5600000,
+    "biomass": 7.03,
+    "metals": 4.4,
+    "minerals": 14.79,
+    "fossil_fuels": 4.77,
+    "material_footprint_tonnes_per_capita": 31,
+    "total_with_supply_chain": 77.5
+  },
+  "FR": {
+    "name": "France",
+    "population": 68000000,
+    "biomass": 4.66,
+    "metals": 0.27,
+    "minerals": 5.6,
+    "fossil_fuels": 0.01,
+    "material_footprint_tonnes_per_capita": 10.6,
+    "total_with_supply_chain": 19.1
+  },
+  "GA": {
+    "name": "Gabon",
+    "population": 2400000,
+    "biomass": 1.9,
+    "metals": 2.83,
+    "minerals": 1.41,
+    "fossil_fuels": -0.61,
+    "material_footprint_tonnes_per_capita": 5.5,
+    "total_with_supply_chain": 9.9
+  },
+  "GM": {
+    "name": "Gambia",
+    "population": 2700000,
+    "biomass": 1.23,
+    "metals": 0.01,
+    "minerals": 1.14,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 2.4,
+    "total_with_supply_chain": 4.3
+  },
+  "GE": {
+    "name": "Georgia",
+    "population": 3700000,
+    "biomass": 1.89,
+    "metals": 1.43,
+    "minerals": 6.93,
+    "fossil_fuels": 0.58,
+    "material_footprint_tonnes_per_capita": 10.8,
+    "total_with_supply_chain": 19.4
+  },
+  "DE": {
+    "name": "Germany",
+    "population": 84000000,
+    "biomass": 3.03,
+    "metals": 0.55,
+    "minerals": 7.07,
+    "fossil_fuels": 4.27,
+    "material_footprint_tonnes_per_capita": 14.9,
+    "total_with_supply_chain": 26.8
+  },
+  "GH": {
+    "name": "Ghana",
+    "population": 34000000,
+    "biomass": 3.8,
+    "metals": 2.97,
+    "minerals": 1.95,
+    "fossil_fuels": 0.06,
+    "material_footprint_tonnes_per_capita": 8.8,
+    "total_with_supply_chain": 15.8
+  },
+  "GR": {
+    "name": "Greece",
+    "population": 10400000,
+    "biomass": 3.24,
+    "metals": 0.93,
+    "minerals": 3.27,
+    "fossil_fuels": 6.28,
+    "material_footprint_tonnes_per_capita": 13.7,
+    "total_with_supply_chain": 24.7
+  },
+  "GT": {
+    "name": "Guatemala",
+    "population": 18000000,
+    "biomass": 5.96,
+    "metals": 0.28,
+    "minerals": 1.92,
+    "fossil_fuels": 0.11,
+    "material_footprint_tonnes_per_capita": 8.3,
+    "total_with_supply_chain": 14.9
+  },
+  "GN": {
+    "name": "Guinea",
+    "population": 14000000,
+    "biomass": 3.6,
+    "metals": 4.66,
+    "minerals": 0.35,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 8.6,
+    "total_with_supply_chain": 15.5
+  },
+  "HT": {
+    "name": "Haiti",
+    "population": 12000000,
+    "biomass": 1.71,
+    "metals": 0,
+    "minerals": 0.13,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 1.8,
+    "total_with_supply_chain": 3.2
+  },
+  "HN": {
+    "name": "Honduras",
+    "population": 10000000,
+    "biomass": 3.74,
+    "metals": 0.33,
+    "minerals": 1.25,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 5.3,
+    "total_with_supply_chain": 9.5
+  },
+  "HU": {
+    "name": "Hungary",
+    "population": 9600000,
+    "biomass": 4.95,
+    "metals": 0.34,
+    "minerals": 8.01,
+    "fossil_fuels": 2.62,
+    "material_footprint_tonnes_per_capita": 15.9,
+    "total_with_supply_chain": 39.8
+  },
+  "IS": {
+    "name": "Iceland",
+    "population": 380000,
+    "biomass": 4.14,
+    "metals": 2.14,
+    "minerals": 9.96,
+    "fossil_fuels": 0.46,
+    "material_footprint_tonnes_per_capita": 16.7,
+    "total_with_supply_chain": 41.8
+  },
+  "IN": {
+    "name": "India",
+    "population": 1440000000,
+    "biomass": 1.88,
+    "metals": 0.16,
+    "minerals": 2.22,
+    "fossil_fuels": 0.93,
+    "material_footprint_tonnes_per_capita": 5.2,
+    "total_with_supply_chain": 9.4
+  },
+  "ID": {
+    "name": "Indonesia",
+    "population": 277000000,
+    "biomass": 3.11,
+    "metals": 0.51,
+    "minerals": 1.91,
+    "fossil_fuels": 0.82,
+    "material_footprint_tonnes_per_capita": 6.4,
+    "total_with_supply_chain": 11.5
+  },
+  "IR": {
+    "name": "Iran",
+    "population": 88000000,
+    "biomass": 1.9,
+    "metals": 1.36,
+    "minerals": 4.41,
+    "fossil_fuels": 2.92,
+    "material_footprint_tonnes_per_capita": 10.6,
+    "total_with_supply_chain": 19.1
+  },
+  "IQ": {
+    "name": "Iraq",
+    "population": 44000000,
+    "biomass": 0.75,
+    "metals": 0.06,
+    "minerals": 1.95,
+    "fossil_fuels": 1.3,
+    "material_footprint_tonnes_per_capita": 4.1,
+    "total_with_supply_chain": 7.4
+  },
+  "IE": {
+    "name": "Ireland",
+    "population": 5100000,
+    "biomass": 11.25,
+    "metals": 0.92,
+    "minerals": 4.96,
+    "fossil_fuels": 2.19,
+    "material_footprint_tonnes_per_capita": 19.3,
+    "total_with_supply_chain": 48.3
+  },
+  "IL": {
+    "name": "Israel",
+    "population": 9800000,
+    "biomass": 1.14,
+    "metals": 0.07,
+    "minerals": 15.32,
+    "fossil_fuels": 3.19,
+    "material_footprint_tonnes_per_capita": 19.7,
+    "total_with_supply_chain": 49.3
+  },
+  "IT": {
+    "name": "Italy",
+    "population": 59000000,
+    "biomass": 2.69,
+    "metals": 0.3,
+    "minerals": 4.18,
+    "fossil_fuels": 0.14,
+    "material_footprint_tonnes_per_capita": 7.3,
+    "total_with_supply_chain": 13.1
+  },
+  "JM": {
+    "name": "Jamaica",
+    "population": 2800000,
+    "biomass": 2.04,
+    "metals": 1.59,
+    "minerals": 3.69,
+    "fossil_fuels": 0.5,
+    "material_footprint_tonnes_per_capita": 7.8,
+    "total_with_supply_chain": 14
+  },
+  "JP": {
+    "name": "Japan",
+    "population": 124000000,
+    "biomass": 1.26,
+    "metals": 0.97,
+    "minerals": 5.22,
+    "fossil_fuels": 3.75,
+    "material_footprint_tonnes_per_capita": 11.2,
+    "total_with_supply_chain": 20.2
+  },
+  "JO": {
+    "name": "Jordan",
+    "population": 11000000,
+    "biomass": 0.81,
+    "metals": 0.05,
+    "minerals": 4.47,
+    "fossil_fuels": 0.52,
+    "material_footprint_tonnes_per_capita": 5.8,
+    "total_with_supply_chain": 10.4
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "population": 20000000,
+    "biomass": 4.59,
+    "metals": 13.23,
+    "minerals": 5.13,
+    "fossil_fuels": 5.2,
+    "material_footprint_tonnes_per_capita": 28.2,
+    "total_with_supply_chain": 70.5
+  },
+  "KE": {
+    "name": "Kenya",
+    "population": 55000000,
+    "biomass": 2.38,
+    "metals": 0.03,
+    "minerals": 1.07,
+    "fossil_fuels": 0.02,
+    "material_footprint_tonnes_per_capita": 3.5,
+    "total_with_supply_chain": 6.3
+  },
+  "KW": {
+    "name": "Kuwait",
+    "population": 4300000,
+    "biomass": 0.83,
+    "metals": 0.38,
+    "minerals": 17.38,
+    "fossil_fuels": 14.29,
+    "material_footprint_tonnes_per_capita": 32.9,
+    "total_with_supply_chain": 82.3
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "population": 7000000,
+    "biomass": 2.51,
+    "metals": 1.29,
+    "minerals": 3.52,
+    "fossil_fuels": 0.33,
+    "material_footprint_tonnes_per_capita": 7.7,
+    "total_with_supply_chain": 13.9
+  },
+  "LV": {
+    "name": "Latvia",
+    "population": 1800000,
+    "biomass": 3.88,
+    "metals": 0.12,
+    "minerals": 10.23,
+    "fossil_fuels": 0.54,
+    "material_footprint_tonnes_per_capita": 14.8,
+    "total_with_supply_chain": 26.6
+  },
+  "LB": {
+    "name": "Lebanon",
+    "population": 5500000,
+    "biomass": 1.22,
+    "metals": 0.06,
+    "minerals": 8.58,
+    "fossil_fuels": 0.05,
+    "material_footprint_tonnes_per_capita": 9.9,
+    "total_with_supply_chain": 17.8
+  },
+  "LY": {
+    "name": "Libya",
+    "population": 7000000,
+    "biomass": 1.56,
+    "metals": 0.19,
+    "minerals": 7.06,
+    "fossil_fuels": 1.27,
+    "material_footprint_tonnes_per_capita": 10.1,
+    "total_with_supply_chain": 18.2
+  },
+  "LT": {
+    "name": "Lithuania",
+    "population": 2900000,
+    "biomass": 5.67,
+    "metals": 0.06,
+    "minerals": 10.07,
+    "fossil_fuels": 4.09,
+    "material_footprint_tonnes_per_capita": 19.9,
+    "total_with_supply_chain": 49.8
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "population": 660000,
+    "biomass": 3.93,
+    "metals": -2.86,
+    "minerals": 15.15,
+    "fossil_fuels": 0.97,
+    "material_footprint_tonnes_per_capita": 17.2,
+    "total_with_supply_chain": 43
+  },
+  "MG": {
+    "name": "Madagascar",
+    "population": 30000000,
+    "biomass": 1.93,
+    "metals": 0.2,
+    "minerals": 0.12,
+    "fossil_fuels": 0.02,
+    "material_footprint_tonnes_per_capita": 2.3,
+    "total_with_supply_chain": 4.1
+  },
+  "MW": {
+    "name": "Malawi",
+    "population": 20000000,
+    "biomass": 2.88,
+    "metals": 0.05,
+    "minerals": 0.4,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 3.3,
+    "total_with_supply_chain": 5.9
+  },
+  "MY": {
+    "name": "Malaysia",
+    "population": 34000000,
+    "biomass": 7.57,
+    "metals": 0.37,
+    "minerals": 9.79,
+    "fossil_fuels": 2.78,
+    "material_footprint_tonnes_per_capita": 20.5,
+    "total_with_supply_chain": 51.3
+  },
+  "ML": {
+    "name": "Mali",
+    "population": 23000000,
+    "biomass": 4.33,
+    "metals": 1.12,
+    "minerals": 0.24,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 5.7,
+    "total_with_supply_chain": 10.3
+  },
+  "MR": {
+    "name": "Mauritania",
+    "population": 4900000,
+    "biomass": 3.83,
+    "metals": 1.3,
+    "minerals": 2.3,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 7.4,
+    "total_with_supply_chain": 13.3
+  },
+  "MU": {
+    "name": "Mauritius",
+    "population": 1300000,
+    "biomass": 4.36,
+    "metals": 0.06,
+    "minerals": 3.77,
+    "fossil_fuels": 1,
+    "material_footprint_tonnes_per_capita": 9.2,
+    "total_with_supply_chain": 16.6
+  },
+  "MX": {
+    "name": "Mexico",
+    "population": 129000000,
+    "biomass": 3.84,
+    "metals": 3.19,
+    "minerals": 3.1,
+    "fossil_fuels": 0.91,
+    "material_footprint_tonnes_per_capita": 11,
+    "total_with_supply_chain": 19.8
+  },
+  "MD": {
+    "name": "Moldova",
+    "population": 2500000,
+    "biomass": 7.02,
+    "metals": 0.09,
+    "minerals": 6.95,
+    "fossil_fuels": 0.32,
+    "material_footprint_tonnes_per_capita": 14.4,
+    "total_with_supply_chain": 25.9
+  },
+  "MN": {
+    "name": "Mongolia",
+    "population": 3400000,
+    "biomass": 18.98,
+    "metals": 21.65,
+    "minerals": 2.03,
+    "fossil_fuels": 3.36,
+    "material_footprint_tonnes_per_capita": 46,
+    "total_with_supply_chain": 115
+  },
+  "MA": {
+    "name": "Morocco",
+    "population": 37000000,
+    "biomass": 2.33,
+    "metals": 0.12,
+    "minerals": 3.76,
+    "fossil_fuels": 0.35,
+    "material_footprint_tonnes_per_capita": 6.6,
+    "total_with_supply_chain": 11.9
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "population": 33000000,
+    "biomass": 1.53,
+    "metals": 0.02,
+    "minerals": 0.4,
+    "fossil_fuels": -0.21,
+    "material_footprint_tonnes_per_capita": 1.7,
+    "total_with_supply_chain": 3.1
+  },
+  "MM": {
+    "name": "Myanmar",
+    "population": 55000000,
+    "biomass": 3.96,
+    "metals": 0.98,
+    "minerals": -1.23,
+    "fossil_fuels": 0.12,
+    "material_footprint_tonnes_per_capita": 3.8,
+    "total_with_supply_chain": 6.8
+  },
+  "NA": {
+    "name": "Namibia",
+    "population": 2600000,
+    "biomass": 3.87,
+    "metals": 8.67,
+    "minerals": 4.16,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 16.7,
+    "total_with_supply_chain": 41.8
+  },
+  "NP": {
+    "name": "Nepal",
+    "population": 31000000,
+    "biomass": 2.56,
+    "metals": 0.07,
+    "minerals": 2.25,
+    "fossil_fuels": 0.05,
+    "material_footprint_tonnes_per_capita": 4.9,
+    "total_with_supply_chain": 8.8
+  },
+  "NL": {
+    "name": "Netherlands",
+    "population": 17700000,
+    "biomass": 3.91,
+    "metals": 0.49,
+    "minerals": 5.77,
+    "fossil_fuels": 5.97,
+    "material_footprint_tonnes_per_capita": 16.1,
+    "total_with_supply_chain": 40.3
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "population": 5200000,
+    "biomass": 16.77,
+    "metals": 2.17,
+    "minerals": 7.41,
+    "fossil_fuels": 1.96,
+    "material_footprint_tonnes_per_capita": 28.3,
+    "total_with_supply_chain": 70.8
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "population": 7000000,
+    "biomass": 5.89,
+    "metals": 0.47,
+    "minerals": 1.97,
+    "fossil_fuels": 0.09,
+    "material_footprint_tonnes_per_capita": 8.4,
+    "total_with_supply_chain": 15.1
+  },
+  "NE": {
+    "name": "Niger",
+    "population": 27000000,
+    "biomass": 3.49,
+    "metals": 0.22,
+    "minerals": 0.21,
+    "fossil_fuels": 0.04,
+    "material_footprint_tonnes_per_capita": 4,
+    "total_with_supply_chain": 7.2
+  },
+  "NG": {
+    "name": "Nigeria",
+    "population": 224000000,
+    "biomass": 2.29,
+    "metals": 0.05,
+    "minerals": 0.73,
+    "fossil_fuels": 0.06,
+    "material_footprint_tonnes_per_capita": 3.1,
+    "total_with_supply_chain": 5.6
+  },
+  "NO": {
+    "name": "Norway",
+    "population": 5500000,
+    "biomass": 2.49,
+    "metals": 0.76,
+    "minerals": 15.25,
+    "fossil_fuels": 31.21,
+    "material_footprint_tonnes_per_capita": 49.7,
+    "total_with_supply_chain": 124.3
+  },
+  "OM": {
+    "name": "Oman",
+    "population": 4600000,
+    "biomass": 1.63,
+    "metals": 2.14,
+    "minerals": 17.12,
+    "fossil_fuels": 6.41,
+    "material_footprint_tonnes_per_capita": 27.3,
+    "total_with_supply_chain": 68.3
+  },
+  "PK": {
+    "name": "Pakistan",
+    "population": 240000000,
+    "biomass": 1.87,
+    "metals": 0.03,
+    "minerals": 1.32,
+    "fossil_fuels": 0.28,
+    "material_footprint_tonnes_per_capita": 3.5,
+    "total_with_supply_chain": 6.3
+  },
+  "PA": {
+    "name": "Panama",
+    "population": 4400000,
+    "biomass": 3.3,
+    "metals": 0.14,
+    "minerals": 3.24,
+    "fossil_fuels": 0.29,
+    "material_footprint_tonnes_per_capita": 7,
+    "total_with_supply_chain": 12.6
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "population": 10000000,
+    "biomass": 2.06,
+    "metals": 4.75,
+    "minerals": 0,
+    "fossil_fuels": 0.19,
+    "material_footprint_tonnes_per_capita": 7,
+    "total_with_supply_chain": 12.6
+  },
+  "PY": {
+    "name": "Paraguay",
+    "population": 6800000,
+    "biomass": 16.66,
+    "metals": 0.02,
+    "minerals": 4.79,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 21.5,
+    "total_with_supply_chain": 53.8
+  },
+  "PE": {
+    "name": "Peru",
+    "population": 34000000,
+    "biomass": 3.42,
+    "metals": 13.02,
+    "minerals": 2.29,
+    "fossil_fuels": 0.48,
+    "material_footprint_tonnes_per_capita": 19.2,
+    "total_with_supply_chain": 48
+  },
+  "PH": {
+    "name": "Philippines",
+    "population": 117000000,
+    "biomass": 1.97,
+    "metals": 0.32,
+    "minerals": 4.55,
+    "fossil_fuels": 0.36,
+    "material_footprint_tonnes_per_capita": 7.2,
+    "total_with_supply_chain": 13
+  },
+  "PL": {
+    "name": "Poland",
+    "population": 37000000,
+    "biomass": 4.35,
+    "metals": 1.03,
+    "minerals": 9.62,
+    "fossil_fuels": 4.73,
+    "material_footprint_tonnes_per_capita": 19.7,
+    "total_with_supply_chain": 49.3
+  },
+  "PT": {
+    "name": "Portugal",
+    "population": 10300000,
+    "biomass": 3.32,
+    "metals": 0.49,
+    "minerals": 5.1,
+    "fossil_fuels": 1.88,
+    "material_footprint_tonnes_per_capita": 10.8,
+    "total_with_supply_chain": 19.4
+  },
+  "QA": {
+    "name": "Qatar",
+    "population": 2700000,
+    "biomass": 1.14,
+    "metals": 2.21,
+    "minerals": 14.97,
+    "fossil_fuels": 22.89,
+    "material_footprint_tonnes_per_capita": 41.2,
+    "total_with_supply_chain": 103
+  },
+  "RO": {
+    "name": "Romania",
+    "population": 19000000,
+    "biomass": 5.94,
+    "metals": 0.25,
+    "minerals": 5.69,
+    "fossil_fuels": 2.36,
+    "material_footprint_tonnes_per_capita": 14.2,
+    "total_with_supply_chain": 25.6
+  },
+  "RU": {
+    "name": "Russian Federation",
+    "population": 144000000,
+    "biomass": 4.42,
+    "metals": 2.13,
+    "minerals": 5.36,
+    "fossil_fuels": 5.94,
+    "material_footprint_tonnes_per_capita": 17.8,
+    "total_with_supply_chain": 44.5
+  },
+  "RW": {
+    "name": "Rwanda",
+    "population": 14000000,
+    "biomass": 1.44,
+    "metals": 0.39,
+    "minerals": 0.39,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 2.2,
+    "total_with_supply_chain": 4
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "population": 37000000,
+    "biomass": 0.99,
+    "metals": 0.91,
+    "minerals": 12.92,
+    "fossil_fuels": 8.63,
+    "material_footprint_tonnes_per_capita": 23.4,
+    "total_with_supply_chain": 58.5
+  },
+  "SN": {
+    "name": "Senegal",
+    "population": 18000000,
+    "biomass": 1.79,
+    "metals": 0.35,
+    "minerals": 1.87,
+    "fossil_fuels": 0.09,
+    "material_footprint_tonnes_per_capita": 4.1,
+    "total_with_supply_chain": 7.4
+  },
+  "RS": {
+    "name": "Serbia",
+    "population": 6600000,
+    "biomass": 6.1,
+    "metals": 3.87,
+    "minerals": 3.76,
+    "fossil_fuels": 6.62,
+    "material_footprint_tonnes_per_capita": 20.3,
+    "total_with_supply_chain": 50.8
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "population": 8600000,
+    "biomass": 1.49,
+    "metals": 0.4,
+    "minerals": 0.8,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 2.7,
+    "total_with_supply_chain": 4.9
+  },
+  "SG": {
+    "name": "Singapore",
+    "population": 6000000,
+    "biomass": 0.54,
+    "metals": 0.21,
+    "minerals": 5.66,
+    "fossil_fuels": 10.65,
+    "material_footprint_tonnes_per_capita": 17.1,
+    "total_with_supply_chain": 42.8
+  },
+  "SK": {
+    "name": "Slovakia",
+    "population": 5400000,
+    "biomass": 2.88,
+    "metals": 0.81,
+    "minerals": 7.54,
+    "fossil_fuels": 3.33,
+    "material_footprint_tonnes_per_capita": 14.6,
+    "total_with_supply_chain": 26.3
+  },
+  "SI": {
+    "name": "Slovenia",
+    "population": 2100000,
+    "biomass": 3.44,
+    "metals": 0.23,
+    "minerals": 8.3,
+    "fossil_fuels": 1.96,
+    "material_footprint_tonnes_per_capita": 13.9,
+    "total_with_supply_chain": 25
+  },
+  "SO": {
+    "name": "Somalia",
+    "population": 18000000,
+    "biomass": 2.96,
+    "metals": 0,
+    "minerals": 0,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 3,
+    "total_with_supply_chain": 5.4
+  },
+  "ZA": {
+    "name": "South Africa",
+    "population": 60000000,
+    "biomass": 2.7,
+    "metals": 2.71,
+    "minerals": 2.91,
+    "fossil_fuels": 3.27,
+    "material_footprint_tonnes_per_capita": 11.6,
+    "total_with_supply_chain": 20.9
+  },
+  "ES": {
+    "name": "Spain",
+    "population": 48000000,
+    "biomass": 3.92,
+    "metals": 0.56,
+    "minerals": 2.75,
+    "fossil_fuels": 2.12,
+    "material_footprint_tonnes_per_capita": 9.4,
+    "total_with_supply_chain": 16.9
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "population": 22000000,
+    "biomass": 1.53,
+    "metals": 0.06,
+    "minerals": 1.18,
+    "fossil_fuels": 0.18,
+    "material_footprint_tonnes_per_capita": 3,
+    "total_with_supply_chain": 5.4
+  },
+  "SD": {
+    "name": "Sudan",
+    "population": 48000000,
+    "biomass": 3.92,
+    "metals": 0.76,
+    "minerals": 0.62,
+    "fossil_fuels": 0.07,
+    "material_footprint_tonnes_per_capita": 5.4,
+    "total_with_supply_chain": 9.7
+  },
+  "SE": {
+    "name": "Sweden",
+    "population": 10500000,
+    "biomass": 4.47,
+    "metals": 4.78,
+    "minerals": 10.82,
+    "fossil_fuels": 2.06,
+    "material_footprint_tonnes_per_capita": 22.1,
+    "total_with_supply_chain": 55.3
+  },
+  "CH": {
+    "name": "Switzerland",
+    "population": 8800000,
+    "biomass": 2.36,
+    "metals": 0.14,
+    "minerals": 6.18,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 8.7,
+    "total_with_supply_chain": 15.7
+  },
+  "SY": {
+    "name": "Syria",
+    "population": 23000000,
+    "biomass": 0.94,
+    "metals": 0,
+    "minerals": 1.06,
+    "fossil_fuels": 0.39,
+    "material_footprint_tonnes_per_capita": 2.4,
+    "total_with_supply_chain": 4.3
+  },
+  "TW": {
+    "name": "Taiwan",
+    "population": 23600000,
+    "biomass": 1.23,
+    "metals": 0,
+    "minerals": 4.74,
+    "fossil_fuels": 5.75,
+    "material_footprint_tonnes_per_capita": 11.7,
+    "total_with_supply_chain": 21.1
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "population": 10000000,
+    "biomass": 1.92,
+    "metals": 0.91,
+    "minerals": 2.81,
+    "fossil_fuels": 0.21,
+    "material_footprint_tonnes_per_capita": 5.8,
+    "total_with_supply_chain": 10.4
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "population": 67000000,
+    "biomass": 2.51,
+    "metals": 0.25,
+    "minerals": 0.53,
+    "fossil_fuels": 0.02,
+    "material_footprint_tonnes_per_capita": 3.3,
+    "total_with_supply_chain": 5.9
+  },
+  "TH": {
+    "name": "Thailand",
+    "population": 72000000,
+    "biomass": 5.56,
+    "metals": 0.17,
+    "minerals": 4.38,
+    "fossil_fuels": 1.94,
+    "material_footprint_tonnes_per_capita": 12.1,
+    "total_with_supply_chain": 21.8
+  },
+  "TG": {
+    "name": "Togo",
+    "population": 9000000,
+    "biomass": 1.88,
+    "metals": 0.71,
+    "minerals": 0.5,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 3.1,
+    "total_with_supply_chain": 5.6
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "population": 1500000,
+    "biomass": 0.72,
+    "metals": -0.49,
+    "minerals": 2.18,
+    "fossil_fuels": 12.2,
+    "material_footprint_tonnes_per_capita": 14.6,
+    "total_with_supply_chain": 26.3
+  },
+  "TN": {
+    "name": "Tunisia",
+    "population": 12000000,
+    "biomass": 2.3,
+    "metals": 0.09,
+    "minerals": 4.74,
+    "fossil_fuels": 0.47,
+    "material_footprint_tonnes_per_capita": 7.6,
+    "total_with_supply_chain": 13.7
+  },
+  "TR": {
+    "name": "Turkey",
+    "population": 86000000,
+    "biomass": 3.15,
+    "metals": 0.63,
+    "minerals": 15.45,
+    "fossil_fuels": 2.25,
+    "material_footprint_tonnes_per_capita": 21.5,
+    "total_with_supply_chain": 53.8
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "population": 6500000,
+    "biomass": 2.39,
+    "metals": 0,
+    "minerals": 5.16,
+    "fossil_fuels": 5.19,
+    "material_footprint_tonnes_per_capita": 12.7,
+    "total_with_supply_chain": 22.9
+  },
+  "UG": {
+    "name": "Uganda",
+    "population": 49000000,
+    "biomass": 2.26,
+    "metals": 0.01,
+    "minerals": 0.62,
+    "fossil_fuels": 0,
+    "material_footprint_tonnes_per_capita": 2.9,
+    "total_with_supply_chain": 5.2
+  },
+  "UA": {
+    "name": "Ukraine",
+    "population": 37000000,
+    "biomass": 9.13,
+    "metals": 0.38,
+    "minerals": 3.18,
+    "fossil_fuels": 2.29,
+    "material_footprint_tonnes_per_capita": 15,
+    "total_with_supply_chain": 27
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "population": 10000000,
+    "biomass": 1.5,
+    "metals": 1.43,
+    "minerals": 10.97,
+    "fossil_fuels": 11.05,
+    "material_footprint_tonnes_per_capita": 25,
+    "total_with_supply_chain": 62.5
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "population": 68000000,
+    "biomass": 2.74,
+    "metals": 0.19,
+    "minerals": 5.4,
+    "fossil_fuels": 1.72,
+    "material_footprint_tonnes_per_capita": 10.1,
+    "total_with_supply_chain": 18.2
+  },
+  "US": {
+    "name": "United States of America",
+    "population": 335000000,
+    "biomass": 6.09,
+    "metals": 1.96,
+    "minerals": 9.31,
+    "fossil_fuels": 5.97,
+    "material_footprint_tonnes_per_capita": 23.3,
+    "total_with_supply_chain": 58.3
+  },
+  "UY": {
+    "name": "Uruguay",
+    "population": 3400000,
+    "biomass": 17.1,
+    "metals": 0.09,
+    "minerals": 0.83,
+    "fossil_fuels": 0.61,
+    "material_footprint_tonnes_per_capita": 18.6,
+    "total_with_supply_chain": 46.5
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "population": 36000000,
+    "biomass": 2.47,
+    "metals": 2.8,
+    "minerals": 2.59,
+    "fossil_fuels": 1.25,
+    "material_footprint_tonnes_per_capita": 9.1,
+    "total_with_supply_chain": 16.4
+  },
+  "VE": {
+    "name": "Venezuela",
+    "population": 28000000,
+    "biomass": 3.23,
+    "metals": 0.11,
+    "minerals": 2.69,
+    "fossil_fuels": 2.02,
+    "material_footprint_tonnes_per_capita": 8,
+    "total_with_supply_chain": 14.4
+  },
+  "VN": {
+    "name": "Viet Nam",
+    "population": 100000000,
+    "biomass": 2.6,
+    "metals": 0.37,
+    "minerals": 5.32,
+    "fossil_fuels": 0.65,
+    "material_footprint_tonnes_per_capita": 8.9,
+    "total_with_supply_chain": 16
+  },
+  "GLOBAL": {
+    "name": "Earth",
+    "population": 8100000000,
+    "biomass": 3.18,
+    "metals": 1.2,
+    "minerals": 5.53,
+    "fossil_fuels": 1.91,
+    "material_footprint_tonnes_per_capita": 11.8,
+    "total_with_supply_chain": 21.2
+  },
+  "YE": {
+    "name": "Yemen",
+    "population": 34000000,
+    "biomass": 0.69,
+    "metals": 0.01,
+    "minerals": 0.4,
+    "fossil_fuels": -0.07,
+    "material_footprint_tonnes_per_capita": 1,
+    "total_with_supply_chain": 1.8
+  },
+  "ZM": {
+    "name": "Zambia",
+    "population": 20000000,
+    "biomass": 2.53,
+    "metals": 4.74,
+    "minerals": 0.88,
+    "fossil_fuels": 0.09,
+    "material_footprint_tonnes_per_capita": 8.2,
+    "total_with_supply_chain": 14.8
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "population": 16000000,
+    "biomass": 1.93,
+    "metals": 1.99,
+    "minerals": 0.91,
+    "fossil_fuels": 0.2,
+    "material_footprint_tonnes_per_capita": 5,
+    "total_with_supply_chain": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "US": { "name": "United States", "population": 331000000, "material_footprint_tonnes_per_capita": 30, "total_with_supply_chain": 95, "biomass": 5, "metals": 10, "minerals": 65, "fossil_fuels": 15 },
+  "CN": { "name": "China", "population": 1412000000, "material_footprint_tonnes_per_capita": 24, "total_with_supply_chain": 40, "biomass": 4, "metals": 12, "minerals": 55, "fossil_fuels": 10 },
+  "IN": { "name": "India", "population": 1408000000, "material_footprint_tonnes_per_capita": 5, "total_with_supply_chain": 12, "biomass": 3, "metals": 2, "minerals": 8, "fossil_fuels": 2 },
+  "DE": { "name": "Germany", "population": 83200000, "material_footprint_tonnes_per_capita": 16, "total_with_supply_chain": 45, "biomass": 4, "metals": 7, "minerals": 30, "fossil_fuels": 9 },
+  "GB": { "name": "United Kingdom", "population": 67800000, "material_footprint_tonnes_per_capita": 14, "total_with_supply_chain": 40, "biomass": 3, "metals": 6, "minerals": 28, "fossil_fuels": 7 },
+  "JP": { "name": "Japan", "population": 125700000, "material_footprint_tonnes_per_capita": 13, "total_with_supply_chain": 38, "biomass": 3, "metals": 6, "minerals": 25, "fossil_fuels": 8 },
+  "BR": { "name": "Brazil", "population": 214300000, "material_footprint_tonnes_per_capita": 15, "total_with_supply_chain": 30, "biomass": 6, "metals": 5, "minerals": 20, "fossil_fuels": 4 },
+  "FR": { "name": "France", "population": 67750000, "material_footprint_tonnes_per_capita": 13, "total_with_supply_chain": 38, "biomass": 4, "metals": 5, "minerals": 25, "fossil_fuels": 6 },
+  "AU": { "name": "Australia", "population": 26000000, "material_footprint_tonnes_per_capita": 35, "total_with_supply_chain": 110, "biomass": 5, "metals": 15, "minerals": 75, "fossil_fuels": 20 },
+  "CA": { "name": "Canada", "population": 40000000, "material_footprint_tonnes_per_capita": 28, "total_with_supply_chain": 85, "biomass": 5, "metals": 10, "minerals": 55, "fossil_fuels": 18 },
+  "KR": { "name": "South Korea", "population": 51700000, "material_footprint_tonnes_per_capita": 18, "total_with_supply_chain": 50, "biomass": 3, "metals": 8, "minerals": 35, "fossil_fuels": 10 },
+  "MX": { "name": "Mexico", "population": 129000000, "material_footprint_tonnes_per_capita": 10, "total_with_supply_chain": 25, "biomass": 4, "metals": 4, "minerals": 18, "fossil_fuels": 5 },
+  "NG": { "name": "Nigeria", "population": 223800000, "material_footprint_tonnes_per_capita": 3, "total_with_supply_chain": 8, "biomass": 3, "metals": 1, "minerals": 5, "fossil_fuels": 1 },
+  "GLOBAL": { "name": "Earth", "population": 8100000000, "material_footprint_tonnes_per_capita": 12.5, "total_with_supply_chain": 30, "biomass": 4, "metals": 5, "minerals": 25, "fossil_fuels": 6 }
+}
