@@ -1,5 +1,9 @@
 # Global Optimization System
 
+> "Know your true material footprint — beyond carbon"
+
+**Live Site:** [https://global-optimization-system.vercel.app](https://global-optimization-system.vercel.app)
+
 **Google Maps for physical reality** — see the material composition and flow of everything.
 
 Enter a LinkedIn URL. We scrape the web, infer your lifestyle, and compute your full elemental footprint: how many tonnes of biomass, metals, minerals, and fossil fuels flow through your life every year, broken down to the periodic table.
